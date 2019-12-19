@@ -1,0 +1,8 @@
+{
+  "person":
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "birthDate": "01.09.1988"
+    }
+}
